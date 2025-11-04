@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "theme": "Python",
+  "question": "Quelle est la sortie de print(type(3)) ?",
+  "options": ["<class 'int'>", "<class 'str'>", "<class 'float'>", "<class 'bool'>"],
+  "reponse": "<class 'int'>"
+ },
+ {
+  "id": 2,
+  "theme": "Histoire",
+  "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
+  "options": ["1492", "1620", "1776", "1945"],
+  "reponse": "1492"
+ },
+ {
+    "id": 1,
+    "theme": "Python",
+    "question": "Quelle est la sortie de print(type(3)) ?",
+    "options": ["<class 'int'>", "<class 'str'>", "<class 'float'>", "<class 'bool'>"],
+    "reponse": "<class 'int'>"
+  },
+  {
+    "id": 2,
+    "theme": "Python",
+    "question": "Quelle méthode permet d'ajouter un élément à une liste ?",
+    "options": ["add()", "append()", "push()", "insert()"],
+    "reponse": "append()"
+  },
+  {
+    "id": 3,
+    "theme": "Python",
+    "question": "Comment déclare-t-on une fonction en Python ?",
+    "options": ["function ma_fonction():", "def ma_fonction():", "fun ma_fonction():", "declare ma_fonction():"],
+    "reponse": "def ma_fonction():"
+  },
+  {
+    "id": 4,
+    "theme": "Histoire",
+    "question": "En quelle année Christophe Colomb a-t-il découvert l'Amérique ?",
+    "options": ["1492", "1620", "1776", "1945"],
+    "reponse": "1492"
+  },
+  {
+    "id": 5,
+    "theme": "Histoire",
+    "question": "Qui était le premier empereur romain ?",
+    "options": ["César", "Auguste", "Néron", "Trajan"],
+    "reponse": "Auguste"
+  },
+  {
+    "id": 6,
+    "theme": "Geographie",
+    "question": "Quel est le plus long fleuve du monde ?",
+    "options": ["Nil", "Amazon", "Yangzi Jiang", "Mississippi"],
+    "reponse": "Amazon"
+  },
+  {
+    "id": 7,
+    "theme": "Geographie",
+    "question": "Quel est le pays le plus peuplé au monde ?",
+    "options": ["Inde", "Chine", "États-Unis", "Indonésie"],
+    "reponse": "Chine"
+  }
+]

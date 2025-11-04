@@ -1,0 +1,68 @@
+{
+  "Alice": {
+    "scores": [
+      {
+        "theme": "Python",
+        "score": 80,
+        "date": "2024-04-15"
+      },
+      {
+        "theme": "Histoire",
+        "score": 60,
+        "date": "2024-04-15"
+      }
+    ]
+  },
+  "Bob": {
+    "scores": [
+      {
+        "theme": "Python",
+        "score": 100,
+        "date": "2024-04-15"
+      }
+    ]
+  },
+  "Romain": {
+    "scores": [
+      {
+        "theme": "Geographie",
+        "score": 50.0,
+        "date": "2025-10-24"
+      },
+      {
+        "theme": "Histoire",
+        "score": 0.0,
+        "date": "2025-10-25"
+      },
+      {
+        "theme": "Histoire",
+        "score": 0.0,
+        "date": "2025-10-25"
+      },
+      {
+        "theme": "Python",
+        "score": 0.0,
+        "date": "2025-10-25"
+      },
+      {
+        "theme": "Geographie",
+        "score": 0.0,
+        "date": "2025-10-25"
+      },
+      {
+        "theme": "Histoire",
+        "score": 0.0,
+        "date": "2025-10-25"
+      }
+    ]
+  },
+  "Anis": {
+    "scores": [
+      {
+        "theme": "Geographie",
+        "score": 0.0,
+        "date": "2025-10-25"
+      }
+    ]
+  }
+}
